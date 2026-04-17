@@ -16,7 +16,7 @@ Currently exploring containerization, deployment pipelines, and cloud platforms 
 ## Tech stack
 
 **Languages**  
-Python · PHP · JavaScript · Bash · HTML/CSS
+Python · PHP · JavaScript · HTML/CSS
 
 **Web & Backend**  
 Flask · MySQL · SQLite · REST APIs
