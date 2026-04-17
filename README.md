@@ -1,90 +1,71 @@
-# Hi 👋 I'm Yassine Abdeljalil
+# Yassine Abdeljalil
 
-💻 Web Developer | Technicien Spécialisé
-🔐 Interested in Cybersecurity & Cloud Computing
-🚀 Building practical web applications and management systems
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Technicien Spécialisé in IT / Software Development
-* 💻 Backend-focused developer
-* 🔐 Interested in security and secure web applications
-* ☁️ Exploring cloud infrastructure and scalable systems
-* 🚀 I enjoy building real-world solutions and publishing my projects
+Web developer studying at university — building toward a career in **DevOps engineering**.  
+Interested in backend architecture, cloud infrastructure, and automating everything.
 
 ---
 
-## 🛠 Tech Stack
+## About me
 
-**Languages**
+I'm a web development student focused on building practical backend applications. My long-term goal is to become a DevOps engineer — bridging the gap between development and infrastructure. I care about writing reliable, automated, and scalable systems.
 
-* PHP
-* Python
-* JavaScript
-* HTML
-* CSS
-
-**Technologies & Tools**
-
-* Flask
-* MySQL / SQLite
-* jQuery
-* Git & GitHub
-* Linux
+Currently exploring containerization, deployment pipelines, and cloud platforms alongside my web development work.
 
 ---
 
-## 🚀 Projects
+## Tech stack
 
-### 📋 EduFlow-Check — Attendance Management System
+**Languages**  
+Python · PHP · JavaScript · Bash · HTML/CSS
 
-EduFlow-Check is a modern, high-performance web application designed to automate attendance tracking in training centers.
+**Web & Backend**  
+Flask · MySQL · SQLite · REST APIs
 
-**Features**
+**DevOps & Infrastructure**  
+Docker · Nginx · Linux · Git & GitHub · GitHub Actions
 
-* Student attendance tracking
-* Fast and lightweight backend
-* Data persistence with SQLite
-* Clean and responsive interface
-
-**Technologies**
-
-Flask • Python • SQLite • HTML • CSS
+**Learning now**  
+Kubernetes · Terraform · AWS / Cloud · CI/CD pipelines
 
 ---
 
-### 🦷 Dental Office Management System
+## Projects
 
-A web application for managing a dental clinic including appointments and patient information.
+### EduFlow-Check — Attendance Management System
+Web application for automating attendance tracking in training centers. Fast backend, persistent SQLite storage, clean interface.  
+`Flask` `Python` `SQLite` `HTML/CSS`
 
-**Features**
-
-* Appointment scheduling
-* Patient management
-* Administrative interface
-* Organized database structure
-
-**Technologies**
-
-PHP • SQL • jQuery • CSS
+### Dental Clinic Management System
+Full web application for managing a dental clinic — appointments, patient records, and admin interface.  
+`PHP` `MySQL` `JavaScript` `CSS`
 
 ---
 
-## 🌍 Interests
+## DevOps roadmap
 
-* Web Security
-* Cloud Infrastructure
-* Backend Architecture
-* Automation Systems
+| Status | Topic |
+|--------|-------|
+| ✅ Done | Linux & CLI |
+| ✅ Done | Git & GitHub |
+| ✅ Done | Bash scripting |
+| 🔄 In progress | Docker |
+| 🔄 In progress | GitHub Actions / CI-CD |
+| 🔜 Up next | Kubernetes |
+| 🔜 Up next | Terraform |
+| 🔜 Up next | AWS / Cloud |
 
 ---
 
-## 📫 Contact
+## Interests
 
-GitHub: https://github.com/yassine-abdeljalill
-Email: yassine.abdeljalil4@gmail.com
+Cloud infrastructure · DevOps automation · Backend architecture · Container orchestration · Web security · CI/CD pipelines
+
+---
+
+## Contact
+
+- GitHub: [github.com/yassine-abdeljalill](https://github.com/yassine-abdeljalill)  
+- Email: yassine.abdeljalil4@gmail.com
 
 <!--
 **yassine-abdeljalill/Yassine-abdeljalill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
