@@ -47,7 +47,8 @@ Full web application for managing a dental clinic — appointments, patient reco
 |--------|-------|
 | ✅ Done | Linux & CLI |
 | ✅ Done | Git & GitHub |
-| ✅ Done | Bash scripting |
+| ✅ Done | Python |
+| 🔄 In progress | Bash Scripting |
 | 🔄 In progress | Docker |
 | 🔄 In progress | GitHub Actions / CI-CD |
 | 🔜 Up next | Kubernetes |
