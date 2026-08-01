@@ -1,84 +1,34 @@
-# Yassine Abdeljalil
+### Hi, I'm Yassine 👋
 
-Web developer studying at university — building toward a career in **DevOps engineering**.  
-Interested in backend architecture, cloud infrastructure, and automating everything.
+Backend-leaning developer building full-stack web applications with PHP, Python, 
+and MySQL. Currently studying IT Development at ECOSIAM, and deepening my skills 
+in Flask, Django, and relational database design.
 
----
+I like building projects that mirror real systems — role-based platforms, 
+reservation logic, client-server architecture — rather than tutorial clones.
 
-## About me
-
-I'm a web development student focused on building practical backend applications. My long-term goal is to become a DevOps engineer — bridging the gap between development and infrastructure. I care about writing reliable, automated, and scalable systems.
-
-Currently exploring containerization, deployment pipelines, and cloud platforms alongside my web development work.
-
----
-
-## Tech stack
-
-**Languages**  
-Python · PHP · JavaScript · HTML/CSS
-
-**Web & Backend**  
-Flask · MySQL · SQLite · REST APIs
-
-**DevOps & Infrastructure**  
-Docker · Nginx · Linux · Git & GitHub · GitHub Actions
-
-**Learning now**  
-Kubernetes · Terraform · AWS / Cloud · CI/CD pipelines
+**🔭 Currently learning:** Django REST Framework, deeper SQL optimization
+**💬 Ask me about:** PHP/MySQL backends, client-server apps in Python
+**📫 Reach me:** yassine.abdeljalil4@gmail.com | [LinkedIn](https://www.linkedin.com/in/yassine-abdeljalill/)
 
 ---
 
-## Projects
+### Featured Projects
 
-### EduFlow-Check — Attendance Management System
-Web application for automating attendance tracking in training centers. Fast backend, persistent SQLite storage, clean interface.  
-`Flask` `Python` `SQLite` `HTML/CSS`
+**🍔 [FoodExpress](your-repo-url)** — Full-stack food delivery platform (PHP/MySQL)
+Role-based system (client/restaurant/driver/admin) with session auth and an 
+8-table relational schema.
 
-### Dental Clinic Management System
-Full web application for managing a dental clinic — appointments, patient records, and admin interface.  
-`PHP` `MySQL` `JavaScript` `CSS`
+**🚗 [Car Rental Platform](your-repo-url)** — Reservation management system (PHP/MySQL)
+23-endpoint platform with dynamic filtering, pagination, and date-based 
+reservation logic.
 
----
-
-## DevOps roadmap
-
-| Status | Topic |
-|--------|-------|
-| ✅ Done | Linux & CLI |
-| ✅ Done | Git & GitHub |
-| ✅ Done | Python |
-| 🔄 In progress | Bash Scripting |
-| 🔄 In progress | Docker |
-| 🔄 In progress | GitHub Actions / CI-CD |
-| 🔜 Up next | Kubernetes |
-| 🔜 Up next | Terraform |
-| 🔜 Up next | AWS / Cloud |
+**🗳️ [Electronic Voting System](your-repo-url)** — Real-time polling app (Python)
+Multithreaded client-server app with a custom TCP protocol and live event 
+broadcasting.
 
 ---
 
-## Interests
+### Tech Stack
 
-Cloud infrastructure · DevOps automation · Backend architecture · Container orchestration · Web security · CI/CD pipelines
-
----
-
-## Contact
-
-- GitHub: [github.com/yassine-abdeljalill](https://github.com/yassine-abdeljalill)  
-- Email: yassine.abdeljalil4@gmail.com
-
-<!--
-**yassine-abdeljalill/Yassine-abdeljalill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `PHP` `JavaScript` `SQL` `Flask` `MySQL` `SQLite` `Git`
